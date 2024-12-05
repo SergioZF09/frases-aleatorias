@@ -1,5 +1,7 @@
 <h1>:tv: Frases Aleatorias de Series :tv:</h1>
 
+![Portada](https://github.com/user-attachments/assets/5155f508-628f-485f-96fb-48bf888e6c5d)
+
 # Insignias
 
 <div align="center">
